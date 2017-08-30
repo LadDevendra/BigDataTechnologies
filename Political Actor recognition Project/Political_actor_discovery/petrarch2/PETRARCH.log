@@ -1,0 +1,233 @@
+INFO 2017-05-08 13:00:36,557: Running
+INFO 2017-05-08 13:00:36,557: Using Config file: PETR_config.ini
+INFO 2017-05-08 13:00:36,565: Reading CAMEO.2.0.txt
+INFO 2017-05-08 13:00:38,922: Reading Phoenix.agents.txt
+
+WARNING 2017-05-08 13:00:38,954: Codes are required for agents in .agents file ; line skipped
+INFO 2017-05-08 13:00:38,962: Reading Phoenix.discards.txt
+INFO 2017-05-08 13:00:38,971: Reading Phoenix.IssueCoding.txt
+INFO 2017-05-08 13:00:47,219: 	Sentence discard.   CHAMPION
+INFO 2017-05-08 13:00:47,228: ut.EP un_africa20161011.0004_1 text not found
+INFO 2017-05-08 13:00:47,228: ut.EP un_africa20161011.0004_1 text not found
+INFO 2017-05-08 13:00:47,250: ut.EP un_africa20161011.0004_6 text not found
+INFO 2017-05-08 13:00:47,250: ut.EP un_africa20161011.0004_6 text not found
+INFO 2017-05-08 13:00:47,380: ut.EP un_africa20161011.0005_6 text not found
+INFO 2017-05-08 13:00:47,380: ut.EP un_africa20161011.0005_6 text not found
+INFO 2017-05-08 13:00:47,515: ut.EP un_africa20161011.0008_1 text not found
+INFO 2017-05-08 13:00:47,515: ut.EP un_africa20161011.0008_1 text not found
+INFO 2017-05-08 13:00:47,529: ut.EP un_africa20161011.0008_2 text not found
+INFO 2017-05-08 13:00:47,529: ut.EP un_africa20161011.0008_2 text not found
+INFO 2017-05-08 13:00:48,321: ut.EP philstar_world20161011.0004_6 text not found
+INFO 2017-05-08 13:00:48,324: ut.EP philstar_world20161011.0004_6 text not found
+INFO 2017-05-08 13:00:49,095: 	Sentence discard.   UNDER 2005
+INFO 2017-05-08 13:00:51,553: 	Sentence discard.   CHAMPION
+INFO 2017-05-08 13:00:52,337: ut.EP un_africa20161011.0004_1 text not found
+INFO 2017-05-08 13:00:52,337: ut.EP un_africa20161011.0004_1 text not found
+INFO 2017-05-08 13:00:52,355: ut.EP un_africa20161011.0004_6 text not found
+INFO 2017-05-08 13:00:52,356: ut.EP un_africa20161011.0004_6 text not found
+INFO 2017-05-08 13:00:54,505: ut.EP un_africa20161011.0005_6 text not found
+INFO 2017-05-08 13:00:54,505: ut.EP un_africa20161011.0005_6 text not found
+INFO 2017-05-08 13:00:58,310: ut.EP nytasiapacific20161011.0005_6 text not found
+INFO 2017-05-08 13:00:58,310: ut.EP nytasiapacific20161011.0005_6 text not found
+INFO 2017-05-08 13:00:58,758: ut.EP un_africa20161011.0008_1 text not found
+INFO 2017-05-08 13:00:58,758: ut.EP un_africa20161011.0008_1 text not found
+INFO 2017-05-08 13:00:58,768: ut.EP un_africa20161011.0008_2 text not found
+INFO 2017-05-08 13:00:58,768: ut.EP un_africa20161011.0008_2 text not found
+INFO 2017-05-08 13:00:59,702: ut.EP philstar_world20161011.0004_6 text not found
+INFO 2017-05-08 13:00:59,702: ut.EP philstar_world20161011.0004_6 text not found
+INFO 2017-05-08 13:01:01,507: ut.EP pakistan_thenews20161011.0001_1 text not found
+INFO 2017-05-08 13:01:01,507: ut.EP pakistan_thenews20161011.0001_1 text not found
+INFO 2017-05-08 13:01:04,402: ut.EP menafn_kuwait20161011.0001_4 text not found
+INFO 2017-05-08 13:01:04,402: ut.EP menafn_kuwait20161011.0001_4 text not found
+INFO 2017-05-08 13:01:06,459: ut.EP int_the_news_karachi20161011.0004_1 text not found
+INFO 2017-05-08 13:01:06,459: ut.EP int_the_news_karachi20161011.0004_1 text not found
+INFO 2017-05-08 13:01:07,005: 	Sentence discard.   MADE YEARS AGO
+INFO 2017-05-08 13:01:07,007: 	Sentence discard.   YEARS AGO
+INFO 2017-05-08 13:01:11,583: ut.EP pakistan_dailymessanger20161011.0002_1 text not found
+INFO 2017-05-08 13:01:11,583: ut.EP pakistan_dailymessanger20161011.0002_1 text not found
+INFO 2017-05-08 13:01:11,583: ut.EP pakistan_dailymessanger20161011.0002_1 text not found
+INFO 2017-05-08 13:01:11,583: ut.EP pakistan_dailymessanger20161011.0002_1 text not found
+INFO 2017-05-08 13:01:13,175: ut.EP chinapost_international20161011.0002_2 text not found
+INFO 2017-05-08 13:01:13,175: ut.EP chinapost_international20161011.0002_2 text not found
+INFO 2017-05-08 13:01:15,361: ut.EP philstar_world20161011.0007_2 text not found
+INFO 2017-05-08 13:01:15,362: ut.EP philstar_world20161011.0007_2 text not found
+INFO 2017-05-08 13:01:17,719: ut.EP nytasiapacific20161011.0001_1 text not found
+INFO 2017-05-08 13:01:17,720: ut.EP nytasiapacific20161011.0001_1 text not found
+INFO 2017-05-08 13:01:23,829: 	Sentence discard.   2005
+INFO 2017-05-08 13:01:27,988: 	Sentence discard.   UNDER 2005
+INFO 2017-05-08 13:01:27,989: 	Sentence discard.   PRESIDENTIAL DEBATE
+INFO 2017-05-08 13:01:34,065: ut.EP pakistan_thenews20161011.0003_1 text not found
+INFO 2017-05-08 13:01:34,066: ut.EP pakistan_thenews20161011.0003_1 text not found
+INFO 2017-05-08 13:01:37,825: ut.EP nytasiapacific20161011.0006_5 text not found
+INFO 2017-05-08 13:01:37,825: ut.EP nytasiapacific20161011.0006_5 text not found
+INFO 2017-05-08 13:01:43,374: 	Sentence discard.   YEARS AGO
+INFO 2017-05-08 13:01:47,738: 	Sentence discard.   CRICKET
+INFO 2017-05-08 13:01:50,193: 	Sentence discard.   LANDSLIDE
+INFO 2017-05-08 13:01:54,377: 	Sentence discard.   DENGUE FEVER
+INFO 2017-05-08 13:01:54,378: 	Sentence discard.   DENGUE FEVER
+INFO 2017-05-08 13:02:00,674: 	Sentence discard.   TSUNAMI
+INFO 2017-05-08 13:02:14,804: ut.EP hindustan_ranchi20161011.0003_1 text not found
+INFO 2017-05-08 13:02:14,805: ut.EP hindustan_ranchi20161011.0003_1 text not found
+INFO 2017-05-08 13:02:29,977: 	Sentence discard.   WOMEN PRESIDENTIAL DEBATE
+INFO 2017-05-08 13:02:32,447: 	Sentence discard.   MOTHER YEARS AGO
+INFO 2017-05-08 13:02:32,447: 	Sentence discard.   MUMMY
+INFO 2017-05-08 13:02:39,149: 	Sentence discard.   2013
+INFO 2017-05-08 13:02:49,778: ut.EP int_the_news_islamabad20161011.0006_4 text not found
+INFO 2017-05-08 13:02:49,778: ut.EP int_the_news_islamabad20161011.0006_4 text not found
+INFO 2017-05-08 13:02:52,813: ut.EP australia_smh_national20161011.0004_1 text not found
+INFO 2017-05-08 13:02:52,814: ut.EP australia_smh_national20161011.0004_1 text not found
+INFO 2017-05-08 13:03:02,288: 	Sentence discard.   MONTHS AGO
+INFO 2017-05-08 13:03:06,132: ut.EP chinapost_international20161011.0007_4 text not found
+INFO 2017-05-08 13:03:06,133: ut.EP chinapost_international20161011.0007_4 text not found
+INFO 2017-05-08 13:03:10,307: ut.EP euroobs20161011.0003_4 text not found
+INFO 2017-05-08 13:03:10,307: ut.EP euroobs20161011.0003_4 text not found
+INFO 2017-05-08 13:03:20,116: ut.EP nigeria_saharareporters20161011.0002_1 text not found
+INFO 2017-05-08 13:03:20,116: ut.EP nigeria_saharareporters20161011.0002_1 text not found
+INFO 2017-05-08 13:03:20,125: ut.EP nigeria_saharareporters20161011.0002_5 text not found
+INFO 2017-05-08 13:03:20,126: ut.EP nigeria_saharareporters20161011.0002_5 text not found
+INFO 2017-05-08 13:03:23,438: ut.EP tolo20161011.0018_3 text not found
+INFO 2017-05-08 13:03:23,439: ut.EP tolo20161011.0018_3 text not found
+INFO 2017-05-08 13:03:25,498: 	Sentence discard.   2005
+INFO 2017-05-08 13:03:42,386: ut.EP india_zee_states20161011.0004_1 text not found
+INFO 2017-05-08 13:03:42,389: ut.EP india_zee_states20161011.0004_1 text not found
+INFO 2017-05-08 13:03:45,725: 	Story discard. +  MALAYSIAN AT GRAND PRIX
+INFO 2017-05-08 13:03:57,468: ut.EP egypt_independent20161011.0001_6 text not found
+INFO 2017-05-08 13:03:57,468: ut.EP egypt_independent20161011.0001_6 text not found
+INFO 2017-05-08 13:04:03,513: ut.EP ft20161011.0001_1 text not found
+INFO 2017-05-08 13:04:03,513: ut.EP ft20161011.0001_1 text not found
+INFO 2017-05-08 13:04:06,641: ut.EP asianage_mumbai20161011.0006_5 text not found
+INFO 2017-05-08 13:04:06,641: ut.EP asianage_mumbai20161011.0006_5 text not found
+INFO 2017-05-08 13:04:12,866: ut.EP hindu_cities20161011.0004_3 text not found
+INFO 2017-05-08 13:04:12,867: ut.EP hindu_cities20161011.0004_3 text not found
+INFO 2017-05-08 13:04:22,686: 	Sentence discard.   2012
+INFO 2017-05-08 13:04:32,230: ut.EP wn_asia20161011.0028_2 text not found
+INFO 2017-05-08 13:04:32,230: ut.EP wn_asia20161011.0028_2 text not found
+INFO 2017-05-08 13:04:32,235: 	Sentence discard.   KING 2011
+INFO 2017-05-08 13:04:39,180: ut.EP jpost_me20161011.0003_1 text not found
+INFO 2017-05-08 13:04:39,180: ut.EP jpost_me20161011.0003_1 text not found
+INFO 2017-05-08 13:05:07,062: ut.EP nigeria_saharareporters20161011.0004_1 text not found
+INFO 2017-05-08 13:05:07,062: ut.EP nigeria_saharareporters20161011.0004_1 text not found
+INFO 2017-05-08 13:05:13,718: ut.EP euronews20161011.0050_1 text not found
+INFO 2017-05-08 13:05:13,719: ut.EP euronews20161011.0050_1 text not found
+INFO 2017-05-08 13:05:13,722: ut.EP euronews20161011.0050_4 text not found
+INFO 2017-05-08 13:05:13,722: ut.EP euronews20161011.0050_4 text not found
+INFO 2017-05-08 13:05:22,492: 	Sentence discard.   1996
+INFO 2017-05-08 13:05:25,845: ut.EP ireland_rte20161011.0019_5 text not found
+INFO 2017-05-08 13:05:25,845: ut.EP ireland_rte20161011.0019_5 text not found
+INFO 2017-05-08 13:05:40,654: ut.EP southaf_iol_thestar20161011.0005_6 text not found
+INFO 2017-05-08 13:05:40,654: ut.EP southaf_iol_thestar20161011.0005_6 text not found
+INFO 2017-05-08 13:05:57,751: ut.EP southaf_capetownt20161011.0009_1 text not found
+INFO 2017-05-08 13:05:57,752: ut.EP southaf_capetownt20161011.0009_1 text not found
+INFO 2017-05-08 13:06:08,562: ut.EP nyt20161011.0008_1 text not found
+INFO 2017-05-08 13:06:08,562: ut.EP nyt20161011.0008_1 text not found
+INFO 2017-05-08 13:06:08,571: 	Sentence discard.   2013
+INFO 2017-05-08 13:06:12,938: ut.EP southaf_capetownt20161011.0005_6 text not found
+INFO 2017-05-08 13:06:12,938: ut.EP southaf_capetownt20161011.0005_6 text not found
+INFO 2017-05-08 13:06:19,309: ut.EP skorea_hankung_econ20161011.0018_6 text not found
+INFO 2017-05-08 13:06:19,309: ut.EP skorea_hankung_econ20161011.0018_6 text not found
+INFO 2017-05-08 13:06:22,460: ut.EP tolo20161011.0019_5 text not found
+INFO 2017-05-08 13:06:22,460: ut.EP tolo20161011.0019_5 text not found
+INFO 2017-05-08 13:06:33,301: ut.EP int_the_news_islamabad20161011.0006_4 text not found
+INFO 2017-05-08 13:06:33,302: ut.EP int_the_news_islamabad20161011.0006_4 text not found
+INFO 2017-05-08 13:06:43,159: ut.EP japan_times20161011.0002_1 text not found
+INFO 2017-05-08 13:06:43,159: ut.EP japan_times20161011.0002_1 text not found
+INFO 2017-05-08 13:06:47,006: ut.EP india_zee_states20161011.0007_1 text not found
+INFO 2017-05-08 13:06:47,006: ut.EP india_zee_states20161011.0007_1 text not found
+INFO 2017-05-08 13:06:55,420: ut.EP japan_times20161011.0009_1 text not found
+INFO 2017-05-08 13:06:55,420: ut.EP japan_times20161011.0009_1 text not found
+INFO 2017-05-08 13:06:55,423: ut.EP japan_times20161011.0009_2 text not found
+INFO 2017-05-08 13:06:55,423: ut.EP japan_times20161011.0009_2 text not found
+INFO 2017-05-08 13:08:07,841: ut.EP australia_smh_national20161011.0004_1 text not found
+INFO 2017-05-08 13:08:07,841: ut.EP australia_smh_national20161011.0004_1 text not found
+INFO 2017-05-08 13:09:08,998: 	Sentence discard.   UNDER 1917
+INFO 2017-05-08 13:09:31,143: 	Sentence discard.   YEARS AGO
+INFO 2017-05-08 13:09:31,148: 	Sentence discard.   SERIES THIRD BIG 1917
+INFO 2017-05-08 13:09:40,338: 	Story discard. +  DEFENDING CHAMPION
+INFO 2017-05-08 13:09:53,621: ut.EP jpost_me20161011.0007_3 text not found
+INFO 2017-05-08 13:09:53,621: ut.EP jpost_me20161011.0007_3 text not found
+INFO 2017-05-08 13:10:10,813: ut.EP hindustan_jaipur20161011.0002_6 text not found
+INFO 2017-05-08 13:10:10,813: ut.EP hindustan_jaipur20161011.0002_6 text not found
+INFO 2017-05-08 13:10:14,829: ut.EP reuters20161011.0008_1 text not found
+INFO 2017-05-08 13:10:14,830: ut.EP reuters20161011.0008_1 text not found
+INFO 2017-05-08 13:10:29,126: ut.EP hindustan_kolkata20161011.0005_2 text not found
+INFO 2017-05-08 13:10:29,127: ut.EP hindustan_kolkata20161011.0005_2 text not found
+INFO 2017-05-08 13:10:38,240: 	Sentence discard.   MADE WORLD 1991
+INFO 2017-05-08 13:10:42,716: 	Sentence discard.   GROUP CHINA MAJOR 2011
+INFO 2017-05-08 13:11:26,813: ut.EP hindustan_gurgaon20161011.0001_1 text not found
+INFO 2017-05-08 13:11:26,813: ut.EP hindustan_gurgaon20161011.0001_1 text not found
+INFO 2017-05-08 13:11:26,819: ut.EP hindustan_gurgaon20161011.0001_5 text not found
+INFO 2017-05-08 13:11:26,819: ut.EP hindustan_gurgaon20161011.0001_5 text not found
+INFO 2017-05-08 13:11:41,616: ut.EP japan_times20161011.0013_4 text not found
+INFO 2017-05-08 13:11:41,617: ut.EP japan_times20161011.0013_4 text not found
+INFO 2017-05-08 13:11:55,475: 	Story discard. +  MIDFIELDER
+INFO 2017-05-08 13:11:59,888: 	Sentence discard.   1984
+INFO 2017-05-08 13:11:59,891: 	Sentence discard.   1987
+INFO 2017-05-08 13:12:19,186: ut.EP dawn_pk20161011.0003_1 text not found
+INFO 2017-05-08 13:12:19,186: ut.EP dawn_pk20161011.0003_1 text not found
+INFO 2017-05-08 13:12:19,194: ut.EP dawn_pk20161011.0003_6 text not found
+INFO 2017-05-08 13:12:19,195: ut.EP dawn_pk20161011.0003_6 text not found
+INFO 2017-05-08 13:12:30,569: 	Sentence discard.   MONTHS AGO
+INFO 2017-05-08 13:13:20,625: ut.EP jpost_me20161011.0010_3 text not found
+INFO 2017-05-08 13:13:20,625: ut.EP jpost_me20161011.0010_3 text not found
+INFO 2017-05-08 13:13:25,489: 	Sentence discard.   1975
+INFO 2017-05-08 13:13:30,985: 	Sentence discard.   2011
+INFO 2017-05-08 13:13:36,073: 	Sentence discard.   REALITY TELEVISION
+INFO 2017-05-08 13:13:52,139: ut.EP jpost_me20161011.0011_1 text not found
+INFO 2017-05-08 13:13:52,139: ut.EP jpost_me20161011.0011_1 text not found
+INFO 2017-05-08 13:13:52,150: ut.EP jpost_me20161011.0011_3 text not found
+INFO 2017-05-08 13:13:52,150: ut.EP jpost_me20161011.0011_3 text not found
+INFO 2017-05-08 13:14:10,769: 	Sentence discard.   MARATHON
+INFO 2017-05-08 13:14:10,770: 	Sentence discard.   MARATHON
+INFO 2017-05-08 13:14:39,102: ut.EP chinapost_international20161011.0007_4 text not found
+INFO 2017-05-08 13:14:39,103: ut.EP chinapost_international20161011.0007_4 text not found
+INFO 2017-05-08 13:15:02,082: 	Sentence discard.   AT WEST MONTHS AGO
+INFO 2017-05-08 13:15:02,087: 	Sentence discard.   YEARS AGO
+INFO 2017-05-08 13:15:13,572: 	Sentence discard.   TENNIS
+INFO 2017-05-08 13:15:13,572: 	Sentence discard.   TENNIS
+INFO 2017-05-08 13:15:13,572: 	Sentence discard.   TENNIS
+INFO 2017-05-08 13:15:19,486: ut.EP nigeria_nationalmirror20161011.0004_6 text not found
+INFO 2017-05-08 13:15:19,486: ut.EP nigeria_nationalmirror20161011.0004_6 text not found
+INFO 2017-05-08 13:15:36,682: ut.EP australia_smh_national20161011.0073_1 text not found
+INFO 2017-05-08 13:15:36,682: ut.EP australia_smh_national20161011.0073_1 text not found
+INFO 2017-05-08 13:15:42,471: ut.EP pakistan_thenews20161011.0006_1 text not found
+INFO 2017-05-08 13:15:42,471: ut.EP pakistan_thenews20161011.0006_1 text not found
+INFO 2017-05-08 13:16:05,006: ut.EP skorea_hankung_econ20161011.0043_1 text not found
+INFO 2017-05-08 13:16:05,006: ut.EP skorea_hankung_econ20161011.0043_1 text not found
+INFO 2017-05-08 13:16:05,023: ut.EP skorea_hankung_econ20161011.0043_4 text not found
+INFO 2017-05-08 13:16:05,023: ut.EP skorea_hankung_econ20161011.0043_4 text not found
+INFO 2017-05-08 13:16:22,596: ut.EP southaf_iol_thestar20161011.0007_4 text not found
+INFO 2017-05-08 13:16:22,596: ut.EP southaf_iol_thestar20161011.0007_4 text not found
+INFO 2017-05-08 13:16:46,167: ut.EP euroobs20161011.0043_2 text not found
+INFO 2017-05-08 13:16:46,167: ut.EP euroobs20161011.0043_2 text not found
+INFO 2017-05-08 13:17:04,961: 	Sentence discard.   UNDER 2009
+INFO 2017-05-08 13:17:10,986: ut.EP menafn_morocco20161011.0005_1 text not found
+INFO 2017-05-08 13:17:10,986: ut.EP menafn_morocco20161011.0005_1 text not found
+INFO 2017-05-08 13:17:10,991: 	Sentence discard.   AT TOP WORLD WORLD DAY BRONZE MEDAL
+INFO 2017-05-08 13:17:24,163: ut.EP sfgate_world20161011.0007_2 text not found
+INFO 2017-05-08 13:17:24,163: ut.EP sfgate_world20161011.0007_2 text not found
+INFO 2017-05-08 13:17:55,386: ut.EP euroobs20161011.0048_1 text not found
+INFO 2017-05-08 13:17:55,387: ut.EP euroobs20161011.0048_1 text not found
+INFO 2017-05-08 13:18:08,498: 	Sentence discard.   OLIVER NOBEL PRIZE
+INFO 2017-05-08 13:18:14,909: ut.EP egypt_independent20161011.0004_3 text not found
+INFO 2017-05-08 13:18:14,909: ut.EP egypt_independent20161011.0004_3 text not found
+INFO 2017-05-08 13:18:33,660: 	Sentence discard.   CHAMPIONSHIP
+INFO 2017-05-08 13:18:33,664: 	Sentence discard.   NBA
+INFO 2017-05-08 13:18:52,099: 	Sentence discard.   FORMULA ONE
+INFO 2017-05-08 13:18:52,099: 	Sentence discard.   NINTH CHAMPIONSHIP
+INFO 2017-05-08 13:19:04,909: 	Sentence discard.   MATCH RUGBY
+INFO 2017-05-08 13:19:04,909: 	Story discard. +  AUSTRALIAN OPEN
+INFO 2017-05-08 13:19:11,053: ut.EP australia_smh_national20161011.0088_1 text not found
+INFO 2017-05-08 13:19:11,053: ut.EP australia_smh_national20161011.0088_1 text not found
+INFO 2017-05-08 13:19:23,711: ut.EP jpost_me20161011.0004_1 text not found
+INFO 2017-05-08 13:19:23,711: ut.EP jpost_me20161011.0004_1 text not found
+INFO 2017-05-08 13:19:23,711: 	Sentence discard.   2013
+INFO 2017-05-08 13:19:23,717: ut.EP jpost_me20161011.0004_6 text not found
+INFO 2017-05-08 13:19:23,717: ut.EP jpost_me20161011.0004_6 text not found
+INFO 2017-05-08 13:19:49,902: ut.EP nxherald_national20161011.0007_1 text not found
+INFO 2017-05-08 13:19:49,903: ut.EP nxherald_national20161011.0007_1 text not found
+:23,711: ut.EP jpost_me20161011.0004_1 text not found
+INFO 2017-05-08 13:19:23,711: 	Sentence discard.   2013
+INFO 2017-05-08 13:19:23,717: ut.EP jpost_me20161011.0004_6 text not found
+INFO 2017-05-08 13:19:23,717: ut.EP jpost_me20161011.0004_6 text not found
+INFO 2017-05-08 13:19:49,902: ut.EP nxherald_national20161011.0007_1 text not found
+INFO 2017-05-08 13:19:49,903: ut.EP nxherald_national20161011.0007_1 text not found
